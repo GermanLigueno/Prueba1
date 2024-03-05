@@ -1,2 +1,2 @@
 # Prueba1
- es la priemera prueba para aprender.
+es el primer cambio para comprobar. 
